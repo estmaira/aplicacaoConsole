@@ -1,0 +1,15 @@
+C:\workspace - DIO\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.exe
+C:\workspace - DIO\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.deps.json
+C:\workspace - DIO\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.runtimeconfig.json
+C:\workspace - DIO\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.dll
+C:\workspace - DIO\DigitalInnovationOne\bin\Debug\net6.0\DigitalInnovationOne.pdb
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.AssemblyReference.cache
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfoInputs.cache
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.AssemblyInfo.cs
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.csproj.CoreCompileInputs.cache
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.dll
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\refint\DigitalInnovationOne.dll
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.pdb
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\DigitalInnovationOne.genruntimeconfig.cache
+C:\workspace - DIO\DigitalInnovationOne\obj\Debug\net6.0\ref\DigitalInnovationOne.dll
